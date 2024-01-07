@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ionutpop90
-- 👀 I’m interested in Frot end Development
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on junior  project's
 
