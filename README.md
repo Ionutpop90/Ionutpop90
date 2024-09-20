@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Ionutpop90
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on junior  project's
+Junior Data Analyst | Python, SQL, Data Visualization
 
+As a Junior Data Analyst, I am passionate about transforming raw data into actionable insights. My expertise lies in data analysis, cleaning, and visualization, which I have applied to several real-world projects. I am proficient in using tools such as:
 
-<!---
-Ionutpop90/Ionutpop90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Python (pandas, NumPy, Matplotlib, Seaborn)
+SQL for querying and managing databases
+Excel for data manipulation and reporting
+Jupyter Notebook for interactive analysis
+On my GitHub, you will find projects where I analyze datasets to uncover trends, visualize data for business insights, and create comprehensive reports. I am eager to continue growing as a data analyst and contribute to impactful data-driven projects.
